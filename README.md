@@ -15,3 +15,24 @@
 keran99/keran99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!--- 
+# Hello, I'm [Your Name]! 👋
+
+I'm a passionate Data Engineer with a Master's degree in Computer Science. My mission is to transform data into meaningful insights and tangible value.
+
+## What You'll Find Here
+
+- 🛠️ Projects: Repositories showcasing my data engineering skills, including pipeline creation, ETL processes, and data-driven projects.
+- 📚 Continuous Learning: I'm always dedicated to deepening my knowledge in areas like data analysis, machine learning, and big data technologies.
+- 🌱 Collaboration: I'm interested in connecting with fellow professionals and collaborating on innovative data-related projects.
+
+## Get in Touch
+
+- 📧 [Email Address](mailto:youremail@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- 🌐 [Website](https://www.yourwebsite.com)
+
+Feel free to reach out for collaborations, ideas, or just a friendly chat! 🚀
+--> 
+
