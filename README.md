@@ -1,20 +1,3 @@
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-
-  th, td {
-    padding: 8px;
-    text-align: left;
-    border: none; /* Rimuovi le linee dei bordi */
-  }
-
-  th {
-    background-color: #f2f2f2;
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Keran</h1>
 <h3 align="center"> A passionate Data Engineer with a Master's in Computer Science </h3>
 
