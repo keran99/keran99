@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keran</h1>
 <h3 align="center"> A passionate Data Engineer with a Master's in Computer Science </h3>
 
-<table>
+<table align="center">
   <tr>
     <th> 
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=keran99&label=Profile%20views&color=0e75b6&style=flat" alt="keran99" /> </p>
